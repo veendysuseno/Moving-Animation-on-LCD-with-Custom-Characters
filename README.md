@@ -154,8 +154,8 @@ void loop() {
 
 1. Custom Characters: Two characters are defined using binary patterns:
 
-- buka: Represents an opening shape.
-- tutup: Represents a closing shape.
+   - buka: Represents an opening shape.
+   - tutup: Represents a closing shape.
 
 2. LCD Initialization: The LCD is initialized using pins 2, 3, 4, 5, 6, and 7. Custom characters are stored in memory using the lcd.createChar() function.
 
